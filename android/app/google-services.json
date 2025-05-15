@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "872249808899",
+    "project_id": "manage-realway",
+    "storage_bucket": "manage-realway.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872249808899:android:8875b6459f9041ba691636",
+        "android_client_info": {
+          "package_name": "com.example.real_cross"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHlNaqI3CGJIPX0x1E0XimZrk9TK8gy_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872249808899:android:66111a3b41639330691636",
+        "android_client_info": {
+          "package_name": "com.example.realway_manage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHlNaqI3CGJIPX0x1E0XimZrk9TK8gy_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
