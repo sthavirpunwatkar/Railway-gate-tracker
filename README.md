@@ -80,5 +80,5 @@ Contributions are welcome! Feel free to fork the repo, raise issues, or submit P
 ## 📞 Contact
 For queries or collaboration, contact:
 📧 Email: punwatkarsthavir@gmail.com
-🔗 LinkedIn: [Sthavir Punwatkar](www.linkedin.com/in/sthavir-punwatkar-41ab17245)
+🔗 LinkedIn: [Sthavir Punwatkar](www.linkedin.com/in/sthavirpunwatkar)
 
